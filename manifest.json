@@ -1,0 +1,8 @@
+{
+  "domain": "mountainbike_be",
+  "name": "Mountainbike.be Tour Calendar",
+  "version": "1.0.0",
+  "documentation": "https://github.com/KingT/ha-mountainbike-be",
+  "requirements": ["requests-html"],
+  "codeowners": ["@KingT"]
+}
